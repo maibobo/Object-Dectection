@@ -199,4 +199,3 @@ iterations_num = 1000
 plus = 0
 compute_centroids(label_path,n_anchors,loss_convergence,grid_size,iterations_num,plus)
 
-#原文：https://blog.csdn.net/weixin_42880443/article/details/81953158
