@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Dec 6 16:30 2018
-@author: 林盛梅
 description：
 对源文件目录sourceDir中的xml进行修改，主要是保留“系船柱”部分，删除其余object及没有“系船柱”的xml文件
 将中文标签名和文件夹名改成指定名称
