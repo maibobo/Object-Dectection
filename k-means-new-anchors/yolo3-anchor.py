@@ -137,7 +137,6 @@ if __name__ == '__main__':
         f_anchors.write('%d,%d' % (int(anchor[0] * input_cfg_width), int(anchor[1] *  input_cfg_height)))
         f_anchors.write('\n')
 
-#原文：https: // blog.csdn.net / zhangping1987 / article / details / 84942680
 '''
 python yolo3-anchor.py --input_annotation_txt_dir /home/workstation/darknet/2019_train.txt --output_anchors_txt /home/workstation/darknet/output_anchors.txt --input_num_anchors 9 --input_cfg_width 608 --input_cfg_height 608
 
